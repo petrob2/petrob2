@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @petrob2
+- 👋 Hi, I’m @petrob2, fullstack software engineer with over 10years experience
 
 
 <!---
